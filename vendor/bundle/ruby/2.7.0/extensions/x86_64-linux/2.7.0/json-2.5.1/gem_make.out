@@ -1,0 +1,13 @@
+current directory: /home/sean/Development/code/phase-0-completing-assignments/phase-0-html-document-structure-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210824-16499-xiazrs.rb extconf.rb
+creating Makefile
+
+current directory: /home/sean/Development/code/phase-0-completing-assignments/phase-0-html-document-structure-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make DESTDIR\= clean
+
+current directory: /home/sean/Development/code/phase-0-completing-assignments/phase-0-html-document-structure-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/sean/Development/code/phase-0-completing-assignments/phase-0-html-document-structure-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make DESTDIR\= install
